@@ -1,4 +1,4 @@
 [![My Skills](https://skillicons.dev/icons?i=debian)](https://skillicons.dev)
-<img width="840" height="859" alt="ikachu-pokemon-pixel-art-pikachu-115631561998y4kekkwxh" src="https://github.com/user-attachments/assets/fbee4182-46ad-45b8-bccb-1d7340cb72c5" />
+<img width="1184" height="1184" alt="c07ac139be28eba" src="https://github.com/user-attachments/assets/60b0f89f-b555-4d78-aaa3-ac58d936229c" />
 
 ![Tela inicial](2025-11-29-140726_1366x768_scrot.png)
