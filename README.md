@@ -1,4 +1,3 @@
-## Debian
 [![My Skills](https://skillicons.dev/icons?i=debian)](https://skillicons.dev)
 
 
