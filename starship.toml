@@ -9,7 +9,7 @@ palette = 'foo'
 
 [git_branch]
 format = "[$symbol$branch]($style)"
-symbol = " "  # Ícone para a branch (você pode mudar o ícone aqui)
+symbol = " "
 style = "bold yellow" 
 
 [palettes.foo]
@@ -20,5 +20,5 @@ mustard = '#af8700'
 style = "yellow"
 home_symbol = ""
 read_only = "🔒"
-truncation_symbol = " …/"
-truncation_length = 3  
+truncation_symbol = "…/"
+truncation_length = 2  
