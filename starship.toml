@@ -1,11 +1,16 @@
 format = '''
 
-[  ](bold yellow) $directory$rust$package
+[  ](bold yellow) $directory$rust$package$git_branch
 [ 🦖](bold green) '''
 
 scan_timeout = 10
 add_newline = false
 palette = 'foo'
+
+[git_branch]
+format = "[$symbol$branch]($style)"
+symbol = " "  # Ícone para a branch (você pode mudar o ícone aqui)
+style = "bold yellow" 
 
 [palettes.foo]
 blue = '21'
@@ -13,6 +18,7 @@ mustard = '#af8700'
 
 [directory]
 style = "yellow"
-home_symbol = " "
+home_symbol = ""
 read_only = "🔒"
 truncation_symbol = " …/"
+truncation_length = 3  
