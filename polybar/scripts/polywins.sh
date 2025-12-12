@@ -176,7 +176,7 @@ generate_window_list() {
       Google-chrome) w_name='󰊯' ;;
       Code) w_name='󰨞' ;;
       Mysql-workbench-bin) w_name='󰆼' ;;
-      TelegramDesktop) w_name=' ' ;;
+      compass) w_name='󰌪' ;;
       Spotify) w_name='󰓇' ;;
       gnome) w_name='󰉋' ;;
       SimpleScreenRecorder) w_name='' ;;
