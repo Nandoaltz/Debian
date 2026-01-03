@@ -23,6 +23,7 @@ bspc config normal_border_color "#24283b"   # Cor de fundo ligeiramente mais cla
 bspc config active_border_color "#565f89"   # Cor desabilitada para bordas ativas
 
 polybar &
+xinput set-prop "ELAN0504:01 04F3:312A Touchpad" "libinput Tapping Enabled" 1
 xsetroot -cursor_name left_ptr
 feh --bg-scale Imagens/wall.png
 picom --backend glx
